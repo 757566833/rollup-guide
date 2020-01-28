@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "rollup": "^1.30.0"
+  },
+  "scripts": {
+    "build":"rollup -c"
+  }
+}
